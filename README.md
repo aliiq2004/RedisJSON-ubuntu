@@ -10,9 +10,9 @@ sudo apt update
 sudo apt install wget
 sudo apt install unzip
 wget https://huggingface.co/alikwiq/test/resolve/main/RedisJSON%20ubuntu.zip
-unzip "RedisJSON ubuntu.zip" -d "RedisJSON ubuntu"
+unzip "RedisJSON ubuntu.zip" -d "RedisJSON-ubuntu"
+cd "RedisJSON-ubuntu"
 chmod -R 777 .
-cd "RedisJSON ubuntu"
 sudo ./sbin/setup
 ```
 

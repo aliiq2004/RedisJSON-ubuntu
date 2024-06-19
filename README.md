@@ -27,4 +27,4 @@ make run
 ## note
 # this mode edit by alikwiq
 
-telegram username is:- alikwiq.t.me
+telegram username is:- https://alikwiq.t.me
